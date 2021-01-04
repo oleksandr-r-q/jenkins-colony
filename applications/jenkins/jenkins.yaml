@@ -13,8 +13,8 @@ source:
   os_type: linux
   image:
     ami:                                                   # AWS Image
-      - id: ami-0b33356b362c56df5
-        region: us-west-1
+      - id: ami-00f1e37d20049f858
+        region: us-west-2
         username: ubuntu
       - id: ami-0817d428a6fb68645
         region: us-east-1

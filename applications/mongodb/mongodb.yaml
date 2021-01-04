@@ -29,8 +29,8 @@ source:
     - name: mongo
       tag: 4.0
     ami:
-      - id: ami-0565af6e282977273
-        region: us-east-1
+      - id: ami-00f1e37d20049f858
+        region: us-west-2
         username: ubuntu
       - id: ami-0ff7f191316dba328
         region: us-west-1
